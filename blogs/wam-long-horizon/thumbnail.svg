@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" viewBox="0 0 480 300" role="img" aria-labelledby="title desc">
+<title id="title">WAM for Long-Horizon</title><desc id="desc">Historical keyframes act as visual anchors for the next action chunk.</desc>
+<rect width="480" height="300" rx="8" fill="#f0e6d2"/>
+<g fill="#1f1a14"><text x="28" y="36" font-family="monospace" font-size="12" letter-spacing="2">WAMs / RESEARCH NOTES</text>
+<text x="28" y="83" font-family="Georgia,serif" font-size="33">WAM for</text><text x="28" y="123" font-family="Georgia,serif" font-size="33">Long-Horizon</text></g>
+<path d="M45 204H433" stroke="#1f1a14" stroke-width="2"/>
+<g fill="#f0e6d2" stroke="#9a412d" stroke-width="3"><circle cx="58" cy="204" r="8"/><circle cx="184" cy="204" r="8"/><circle cx="297" cy="204" r="8"/></g>
+<rect x="316" y="189" width="117" height="30" rx="3" fill="#9a412d"/>
+<g fill="#1f1a14" text-anchor="middle" font-family="monospace" font-size="15"><text x="58" y="247">Anchor A</text><text x="184" y="247">Anchor B</text><text x="297" y="247">Now</text></g>
+<text x="374" y="209" text-anchor="middle" font-family="monospace" font-size="12" fill="#f0e6d2">NEXT CHUNK</text>
+<path d="M58 183Q178 133 288 180M184 183Q242 153 291 182" fill="none" stroke="#9a412d" stroke-width="1.5"/>
+<text x="28" y="280" font-family="monospace" font-size="11" fill="#716658">VISUAL MEMORY · SUBTASKS · INCOMPLETE-TF</text></svg>
